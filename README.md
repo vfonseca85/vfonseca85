@@ -20,7 +20,7 @@ My name is Valdir Fonseca and I'm a Software engineer/developer.
 
 Since university, I've been passionate about coding, problem-solving, challenging and pushing myself every day   
 
-Recently, I've been taking some online programming courses on LinkedIn and Udemy'a platform, to keep up-to-date with the technologies. I have added my projects from the  University to this profile, and currently working on personal projects, which I will be soon adding here.
+Recently, I've been taking some online programming courses on LinkedIn and Udemy platform, to keep up-to-date with the technologies. I have added my projects from the  University to this profile, and currently working on personal projects, which will be added here soon.
 
 In my free time, just to keep my eyes off the screen for a while, I like to meet new people, work out, watch movies and sometimes just walk through nature.
 
