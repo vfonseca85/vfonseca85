@@ -27,5 +27,5 @@ Also, I like to meet new people, working out, watching movies and sometimes just
 Please feel free to reach me out 🤙
 
 <a href="https://www.linkedin.com/in/valdir-fonseca-6518b318a" target="blank">
-<img src="https://github.com/vfonseca85/vfonseca85/edit/main/README.md" alt="LinkedIn logo"/>
+<img src="https://github.com/vfonseca85/Public_images/blob/main/LinkedIn_icon.png"/>
 </a>
